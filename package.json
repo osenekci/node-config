@@ -1,0 +1,23 @@
+{
+  "name": "node-config-lc",
+  "version": "1.0.0",
+  "description": "node config manager",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/osenekci/node-config.git"
+  },
+  "keywords": [
+    "node",
+    "config"
+  ],
+  "author": "ozgursenekci@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/osenekci/node-config/issues"
+  },
+  "homepage": "https://github.com/osenekci/node-config#readme"
+}
